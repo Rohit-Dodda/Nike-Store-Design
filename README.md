@@ -15,11 +15,15 @@ Postcss
 
 Setup Instructions
 Clone the repository: git clone https://github.com/<your-username>/nike-shoe-store
+  
 Install the dependencies: npm install
+  
 Start the development server: npm run dev
 
 Running the Project
+  
 Build the project: npm run build
+  
 Start the production server: npm start
 
 Known Issues
